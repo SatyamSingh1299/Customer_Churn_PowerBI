@@ -110,12 +110,6 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 - Digging deeper into churn categories
 - Using maps for geographic analysis
 
-**Key Visuals:**  
-- Churn rate KPI
-- Total customers and churned customers
-- Churn reasons bar chart
-- Geographic churn map
-
 ### 2. Investigating Churn Patterns  
 - Zooming out for broader patterns
 - Analyzing demographics (age, gender)
@@ -126,13 +120,6 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 - International calling patterns
 - Contract type impact on churn
 
-**Key Visuals:**
-- Age bracket analysis
-- Gender comparison charts
-- Group vs. individual customer churn
-- Contract type breakdown
-- Service adoption vs. churn matrices
-
 ### 3. Visualizing Your Analysis  
 - Creating a cohesive story
 - Dashboard design best practices
@@ -142,12 +129,6 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 - International and data plan insights
 - Additional insights and findings
 - Final wrap-up and recommendations
-
-**Key Visuals:**
-- Executive summary dashboard
-- Multi-page interactive report
-- Drill-through detail pages
-- Insight callouts and recommendations
 
 ---
 
@@ -191,4 +172,5 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 <p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img9.png" /></a></p>  
 
 <p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img10.png" /></a></p>
+
 
