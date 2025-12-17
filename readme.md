@@ -47,7 +47,30 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 - Usage Metrics: Monthly Charges, Customer Service Calls
 
 ---
+## Snapshots from Power BI  
 
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img1.png" /></a></p>  
+
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img2.png" /></a></p>  
+
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img3.png" /></a></p>  
+
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img4.png" /></a></p>  
+
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img5.png" /></a></p>  
+ 
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img6.png" /></a></p>  
+
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img7.png" /></a></p>  
+
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img8.png" /></a></p>  
+
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img9.png" /></a></p>  
+
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img10.png" /></a></p>
+
+
+  
 ## 🛠️ Technical Skills & Techniques Demonstrated
 
 ### Data Preparation & Exploration
@@ -151,26 +174,5 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 6. **Geographic Focus:** Investigate California market dynamics and implement region-specific strategies
 
 ---
-## Snapshots from Power BI
-
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img1.png" /></a></p>  
-
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img2.png" /></a></p>  
-
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img3.png" /></a></p>  
-
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img4.png" /></a></p>  
-
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img5.png" /></a></p>  
- 
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img6.png" /></a></p>  
-
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img7.png" /></a></p>  
-
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img8.png" /></a></p>  
-
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img9.png" /></a></p>  
-
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img10.png" /></a></p>
 
 
