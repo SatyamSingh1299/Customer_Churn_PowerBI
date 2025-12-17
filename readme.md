@@ -4,7 +4,7 @@ A comprehensive Power BI project analysing customer churn for Databel, a fictiti
 
 ---
 
-## 📋 Problem Statement
+## Problem Statement
 
 Databel, a telecom company, is experiencing customer churn and needs to understand why customers are leaving. As a Data Analyst, the goal is to:
 
@@ -16,7 +16,7 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 
 ---
 
-## 🎯 Business Questions Addressed
+## Business Questions Addressed
 
 1. What is Databel's current customer churn rate?
 2. Why are customers churning at the rate they are?
@@ -30,7 +30,7 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 **Source:** Databel telecom customer data   
 **Format:** CSV files  
@@ -70,8 +70,6 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 <p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/Customer_Churn_PowerBI/blob/main/images/img10.png" /></a></p>
 
 
-  
-## 🛠️ Technical Skills & Techniques Demonstrated
 
 ### Data Preparation & Exploration
 - **Power Query Transformations:**
@@ -84,15 +82,7 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
   - Identifying data patterns and anomalies
   - Understanding data distributions
 
-### DAX (Data Analysis Expressions)
-
-#### Calculated Columns:
-- Age group categorisation (binning customers by age brackets)
-- Tenure categories
-- Churn reason groupings
-- Customer segmentation fields
-
-#### Measures:
+#### Measures using DAX (Data Analysis Expressions):  
 - **Churn Rate Calculation:** `Churned Customers / Total Customers`
 - **Customer Count:** Total active and churned customers
 - **Churn Reason Analysis:** Breakdown by primary churn categories
@@ -101,16 +91,9 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 - **Contract Analysis:** Churn rates by contract type
 - **Service Analysis:** Impact of unlimited plans, international calls, data plans on churn
 
-#### Advanced DAX Techniques:
-- CALCULATE function for filtered measures
-- DIVIDE function for safe percentage calculations
-- ALL/ALLEXCEPT for removing/preserving filters
-- Conditional logic with IF/SWITCH statements
-- Multiple field aggregations
 
-### Data Visualization & Dashboard Design
+### Data Visualisation
 
-#### Custom Visuals:
 - **Churn Overview KPI Cards:** Total churn rate, churned vs. retained customers
 - **Churn Reason Breakdown:** Bar/column charts showing top churn drivers
 - **Demographic Analysis:** Age group and gender churn comparisons
@@ -121,33 +104,7 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 
 ---
 
-## 📈 Report Pages & Structure
-
-### 1. Exploratory Analysis  
-- Analyzing customer churn in Power BI
-- Understanding churn metrics
-- Calculating churn rate
-- Investigating initial churn reasons
-- Using maps for geographic analysis
-
-### 2. Investigating Churn Patterns  
-- Zooming out for broader patterns
-- Analyzing demographics (age, gender)
-- Age group segmentation
-- Inspecting customer groups
-- Multiple field investigations
-- Unlimited plan analysis
-- International calling patterns
-- Contract type impact on churn
-
-### 3. Visualizing Your Analysis  
-- Age brackets and groups visualisation
-- Payment method and contract category analysis
-- International and data plan insights
-
----
-
-## 🔑 Key Insights & Recommendations
+## Insights & Recommendations
 
 **Insights:**
 - Overall churn rate: **26.5%**
@@ -161,11 +118,12 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 1. **Contract Incentives:** Encourage migration from monthly to annual contracts with discounts
 2. **Competitive Analysis:** Review competitor pricing and adjust value propositions
 3. **Targeted Retention:** Develop retention campaigns for high-risk segments (seniors, monthly contracts)
-4. **Service Optimization:** Right-size international plans based on actual usage
+4. **Service Optimisation:** Right-size international plans based on actual usage
 5. **Customer Service:** Improve response times and service quality to reduce service-related churn
 6. **Geographic Focus:** Investigate California market dynamics and implement region-specific strategies
 
 ---
+
 
 
 
