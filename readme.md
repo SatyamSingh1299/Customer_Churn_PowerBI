@@ -1,6 +1,6 @@
 # Customer Churn Analysis Dashboard - Databel Telecom (Power BI Case Study)
 
-A comprehensive Power BI project analyzing customer churn for Databel, a fictitious telecom company. This case study demonstrates end-to-end churn analysis including exploratory data analysis, DAX measures, advanced visualizations, and actionable insights to reduce customer attrition in a subscription-based business.
+A comprehensive Power BI project analysing customer churn for Databel, a fictitious telecom company. This case study demonstrates end-to-end churn analysis, including exploratory data analysis, DAX measures, advanced visualisations, and actionable insights to reduce customer attrition in a subscription-based business.
 
 ---
 
@@ -10,7 +10,7 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 
 - Calculate and understand the current churn rate
 - Identify key reasons why customers are churning
-- Analyze churn patterns across different customer segments (demographics, geography, contract types, services)
+- Analyse churn patterns across different customer segments (demographics, geography, contract types, services)
 - Investigate which factors have the strongest impact on churn
 - Provide data-driven recommendations to reduce churn and improve customer retention
 
@@ -32,7 +32,7 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 
 ## 📊 Dataset Overview
 
-**Source:** Databel telecom customer data (fictitious company)  
+**Source:** Databel telecom customer data   
 **Format:** CSV files  
 **Grain:** Individual customer records  
 
@@ -87,7 +87,7 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 ### DAX (Data Analysis Expressions)
 
 #### Calculated Columns:
-- Age group categorization (binning customers by age brackets)
+- Age group categorisation (binning customers by age brackets)
 - Tenure categories
 - Churn reason groupings
 - Customer segmentation fields
@@ -125,12 +125,9 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 
 ### 1. Exploratory Analysis  
 - Analyzing customer churn in Power BI
-- Understanding the analysis process
-- Data quality checks and validation
 - Understanding churn metrics
 - Calculating churn rate
 - Investigating initial churn reasons
-- Digging deeper into churn categories
 - Using maps for geographic analysis
 
 ### 2. Investigating Churn Patterns  
@@ -144,14 +141,9 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 - Contract type impact on churn
 
 ### 3. Visualizing Your Analysis  
-- Creating a cohesive story
-- Dashboard design best practices
-- Building the overview page
-- Age brackets and groups visualization
+- Age brackets and groups visualisation
 - Payment method and contract category analysis
 - International and data plan insights
-- Additional insights and findings
-- Final wrap-up and recommendations
 
 ---
 
@@ -174,5 +166,6 @@ Databel, a telecom company, is experiencing customer churn and needs to understa
 6. **Geographic Focus:** Investigate California market dynamics and implement region-specific strategies
 
 ---
+
 
 
